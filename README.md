@@ -5,7 +5,9 @@
 
 ---
 ### 📊 Here's my GitHub stat
+<!--
 [![GitHub stats](https://gitspulse.vercel.app/api/cards/stats?username=hzqula&theme=neon&t=1780629058908)](https://github.com/hzqula)
+-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="hertzqula's github stat" src="https://github-readme-stats.vercel.app/api?username=hertzqula&show_icons=true&text_color=36CCFC&ring_color=FC3636&icon_color=FCC936&theme=default&rank_icon=github&bg_color=1E1E1E&title_color=36FC3E&border_color=FCC936" height="192px"/></a>
 
